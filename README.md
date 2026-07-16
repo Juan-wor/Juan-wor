@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+%F0%9F%91%8B;DevOps+Engineer;Cloud+%7C+Automation+%7C+Infrastructure;Construyendo+infraestructura+como+c%C3%B3digo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+%F0%9F%91%8B;DevOps+Engineer;Cloud+%7C+Automation+%7C+Infrastructure;Construyendo+infraestructura;como+c%C3%B3digo" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,6 @@
 ## 🚀 Sobre mí
 
 ```yaml
-nombre: Juan
 rol: DevOps Engineer
 enfoque: Cloud · Automatización · Infraestructura como Código · Cybersecurity 
 pasion: >
@@ -87,10 +86,10 @@ estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Juan-wor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Estadísticas de GitHub de Juan-wor" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-wor&layout=compact&theme=tokyonight&hide_border=true" width="34%" alt="Lenguajes más usados" />
-
+-->
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Juan-wor&theme=tokyonight&hide_border=true" width="49%" alt="Racha de contribuciones en GitHub" />
@@ -148,7 +147,7 @@ estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivos 2026
 
 - [ ] 🏆 Obtener certificaciones Cloud (AWS)
 - [ ] ⛵ Profundizar en Kubernetes y AWS
@@ -174,6 +173,7 @@ estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 
 > 💡 *Este perfil está en constante evolución a medida que aprendo nuevas tecnologías y desarrollo nuevos proyectos.*
 
+<!--
 ![Snake animation](https://raw.githubusercontent.com/Juan-wor/Juan-wor/output/github-contribution-grid-snake.svg)
 
 </div>
