@@ -140,14 +140,10 @@ estado_actual: >
 
 <br/>
 
-<!-- 🐍 Snake animation: se genera automáticamente con el workflow en .github/workflows/snake.yml -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Juan-wor/Juan-wor/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0508,50:5c1a2e,100:800020&height=2&text=%20&fontSize=0" width="100%"/>
+<!-- Pacman animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Juan-wor/Juan-wor/output/pacman-contribution-graph-dark.svg" width="820" alt="Pac-Man contribution graph" />
+</p>
 
 <br/>
 
