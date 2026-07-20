@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=D4485F&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Juan+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;Cloud+%7C+Automation+%7C+Infrastructure;Construyendo+infraestructura+como+c%C3%B3digo+%E2%9A%99%EF%B8%8F;DevSecOps+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=D4485F&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Juan+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;Cloud+%7C+Automation+%7C+Infrastructure;Construyendo+infraestructura+como+c%C3%B3digo;DevSecOps+%7C+Kubernetes+%7C+Terraform" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -44,7 +44,7 @@ estado_actual: >
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/homer.gif" width="100%" alt="devops gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=1400&color=E8B4BC&background=1A0A0E00&center=true&vCenter=true&repeat=true&width=280&height=190&lines=%24+terraform+apply;%E2%9C%93+12+resources+created;%24+kubectl+rollout+status;%E2%9C%93+deployment+updated;%24+ci%2Fcd+pipeline;%E2%9C%93+build+passing;building+infra+as+code+%E2%9A%99%EF%B8%8F" alt="terminal animation"/>
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ estado_actual: >
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🐳_CONTENEDORES_%26_ORQUESTACIÓN-800020?style=for-the-badge&labelColor=1a0a0e" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 
 <br/><br/>
 
@@ -124,14 +124,13 @@ estado_actual: >
 
 ## 🩸 GitHub Stats
 
+
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juan-wor&show_icons=true&hide_border=true&bg_color=0d0508&title_color=d4485f&icon_color=a3243f&text_color=e8b4bc&ring_color=800020&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-wor&layout=compact&hide_border=true&bg_color=0d0508&title_color=d4485f&text_color=e8b4bc&langs_count=8" width="35%" alt="Top Langs"/>
-
-<br/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Juan-wor&show_icons=true&hide_border=true&bg_color=0d0508&title_color=d4485f&icon_color=a3243f&text_color=e8b4bc&ring_color=800020&count_private=true&hide_rank=false" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-wor&hide_border=true&background=0d0508&ring=800020&fire=d4485f&currStreakLabel=e8b4bc&sideLabels=e8b4bc&currStreakNum=ffffff&sideNums=ffffff&dates=5c1a2e" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-wor&layout=compact&hide_border=true&bg_color=0d0508&title_color=d4485f&text_color=e8b4bc&langs_count=8" width="49%" alt="Top Langs"/>
 
 <br/><br/>
 
@@ -172,7 +171,7 @@ estado_actual: >
 
 <div align="center">
 
-🚧 *Top repositorios*
+📌 *Todavía no tengo repos públicos que mostrar, pero ya vienen en camino.*
 
 </div>
 
