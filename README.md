@@ -1,26 +1,24 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0e,35:3d1420,70:5c1a2e,100:800020&height=230&section=header&text=Juan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automation%20%E2%80%A2%20Infrastructure&descAlignY=56&descSize=18" alt="header banner" />
+</p>
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+%F0%9F%91%8B;DevOps+Engineer;Cloud+%7C+Automation+%7C+Infrastructure;Construyendo+infraestructura;como+c%C3%B3digo" alt="Typing SVG" />
+</p>
 
-<br/>
 
-<!--
-![Profile Views](https://komarev.com/ghpvc/?username=Juan-wor&color=2EA3F2&style=flat-square&label=Visitas+al+perfil)
-[![GitHub followers](https://img.shields.io/github/followers/Juan-wor?label=Seguidores&style=flat-square&color=2EA3F2)](https://github.com/Juan-wor)
--->
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
----
-
-## 🚀 Sobre mí
+## Sobre mí
 
 ```yaml
 rol: DevOps Engineer
-enfoque: Cloud · Automatización · Infraestructura como Código · Cybersecurity 
+enfoque: DevSecOps · Cloud · Automatización · Infraestructura como Código
 pasion: >
-  Diseñar soluciones escalables, optimizar procesos mediante
-  automatización y aplicar buenas prácticas DevOps en todo
-  el ciclo de vida del software.
+  Me gusta diseñar soluciones escalables, automatizar todo lo que
+  se pueda automatizar y la ciberseguridad.
 estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 ```
 
@@ -29,84 +27,98 @@ estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 - 🤝 Abierto a colaborar en proyectos **Open Source** de DevOps
 - ⚡ Apasionado por Cybersecurity & Cloud 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
-## 🛠️ Tecnologías y herramientas
+## Tech Stack
 
-<div align="center">
+<p align="center"><b>☁️ Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-**☁️ Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws" />
+<p align="center"><b>💻 Lenguajes</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,bash" />
+</p>
 
-**💻 Lenguajes**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,go,bash" />
+<p align="center"><b>🐳 Contenedores y Orquestación</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+</p>
 
-**🐳 Contenedores y Orquestación**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<p align="center"><b>⚙️ DevOps & CI/CD</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,terraform,ansible" />
+</p>
 
-**⚙️ DevOps & CI/CD**
-<br/>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,terraform,ansible" />
+<p align="center"><b>🔧 Control de versiones</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
 
-**🔧 Control de versiones**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<p align="center"><b>🐧 Sistemas Operativos</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian" />
+</p>
 
-**🐧 Sistemas Operativos**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian" />
+<p align="center"><b>📊 Monitorización y Observabilidad</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
 
-**📊 Monitorización y Observabilidad**
-<br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<p align="center"><b>🗄️ Bases de datos</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-**🗄️ Bases de datos**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+<p align="center"><b>🔐 Seguridad</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-1a0a0e?style=for-the-badge&logo=nmap&logoColor=800020" />
+  <img src="https://img.shields.io/badge/Wireshark-1a0a0e?style=for-the-badge&logo=wireshark&logoColor=800020" />
+  <img src="https://img.shields.io/badge/Metasploit-1a0a0e?style=for-the-badge&logo=metasploit&logoColor=800020" />
+  <img src="https://img.shields.io/badge/SSH-1a0a0e?style=for-the-badge&logo=openssh&logoColor=800020" />
+  <img src="https://img.shields.io/badge/Vault-1a0a0e?style=for-the-badge&logo=vault&logoColor=800020" />
+</p>
 
-🔐 Seguridad
-<br/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF00" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
-<img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+<p align="center"><b>🧰 Editores y Productividad</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,postman" />
+</p>
 
-**🧰 Editores y Productividad**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,neovim" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
-</div>
+## GitHub Stats
 
----
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juan-wor&theme=github_dark"
+    width="420"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juan-wor&theme=github_dark"
+    width="330"
+    alt="Top Langs"
+  />
+</p>
 
 
+<!-- 🐍 Snake animation: se genera automáticamente con el workflow en .github/workflows/snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Juan-wor/Juan-wor/output/github-contribution-grid-snake-dark.svg" width="820" alt="Snake animation" />
+</p>
 
-<div align="center">
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=Juan-wor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Estadísticas de GitHub de Juan-wor" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-wor&layout=compact&theme=tokyonight&hide_border=true" width="34%" alt="Lenguajes más usados" />
--->
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=Juan-wor&theme=tokyonight&hide_border=true" width="49%" alt="Racha de contribuciones en GitHub" />
+## Proyectos destacados
 
-<br/>
-
-<!--
-<img src="https://github-profile-trophy.vercel.app/?username=Juan-wor&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trofeos de GitHub" />
--->
-
-</div>
-
----
-
-## 📂 Proyectos destacados
-
-> Actualmente estoy desarrollando proyectos relacionados con:
+> Por ahora estoy trabajando en cosas relacionadas con:
 
 | Área | Descripción |
 |---|---|
@@ -118,36 +130,42 @@ estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 | 🔐 **Seguridad** | Buenas prácticas de DevSecOps |
 | 📊 **Observabilidad** | Prometheus y Grafana para monitorización |
 
-📌 *Próximamente iré publicando nuevos repositorios — ¡vuelve pronto!*
+📌 *Todavía no tengo repos públicos que mostrar, pero ya vienen en camino.*
 
 <!--
-📌 Pinea aquí tus repos favoritos usando el siguiente formato:
+ Cuando tenga repos publicados, pínealos aquí con badges, por ejemplo:
 
-[![Nombre del Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=Juan-wor&repo=nombre-del-repo&theme=tokyonight&hide_border=true)](https://github.com/Juan-wor/nombre-del-repo)
+<p align="center">
+  <a href="https://github.com/Juan-wor/nombre-del-repo">
+    <img src="https://img.shields.io/badge/Nombre_del_Proyecto-800020?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 -->
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,githubactions,ansible,grafana" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,githubactions,ansible,grafana" />
-
-</div>
-
-- 🐳 **Kubernetes** — orquestación avanzada de contenedores
-- 🏗️ **Terraform** — Infraestructura como Código
-- ☁️ **AWS** — arquitecturas cloud escalables
-- 🔄 **GitHub Actions** — pipelines CI/CD
-- ⚙️ **Ansible** — automatización de configuración
-- 📊 **Observabilidad** — métricas, logs y trazas
+- 🐳 **Kubernetes** — todavía dándole vueltas a la orquestación avanzada
+- 🏗️ **Terraform** — cogiéndole el gusto a Infraestructura como Código
+- ☁️ **AWS** — entendiendo cómo montar arquitecturas cloud bien pensadas
+- 🔄 **GitHub Actions** — armando pipelines CI/CD
+- ⚙️ **Ansible** — automatizando configuración de servidores
+- 📊 **Observabilidad** — métricas, logs y trazas, para entender qué pasa de verdad
 - 🌐 **Arquitecturas Cloud** — diseño de sistemas distribuidos
-- 🔐 **DevSecOps** — seguridad integrada en el pipeline
+- 🔐 **DevSecOps** — metiendo seguridad en cada etapa del pipeline
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
-## 🎯 Objetivos 2026
+## ❖ Objetivos 2026
 
 - [ ] 🏆 Obtener certificaciones Cloud (AWS)
 - [ ] ⛵ Profundizar en Kubernetes y AWS
@@ -155,25 +173,32 @@ estado_actual: Aprendiendo, construyendo y mejorando constantemente 🚧
 - [ ] 🤝 Contribuir a proyectos Open Source
 - [ ] 📘 Continuar aprendiendo nuevas tecnologías
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a0e,100:800020&height=3&text=%20&fontSize=0" alt="sep" />
+</p>
 
-## 📫 Conecta conmigo
+## Contact
 
-<div align="center">
+<p align="center">
+  <!--
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-1a0a0e?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  -->
+  <a href="https://github.com/Juan-wor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Juan-wor" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <i>💡 Este perfil va cambiando según voy aprendiendo cosas nuevas y sumando proyectos. Vuelve de vez en cuando.</i>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-> 💡 *Este perfil está en constante evolución a medida que aprendo nuevas tecnologías y desarrollo nuevos proyectos.*
-
-<!--
-![Snake animation](https://raw.githubusercontent.com/Juan-wor/Juan-wor/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,35:5c1a2e,70:3d1420,100:1a0a0e&height=130&section=footer" alt="footer wave" />
+</p>
